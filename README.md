@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/David-PatrickAdam/Space%20Game%20-%20web%20-%20Pipeline/_apis/build/status/thadubsdavid.space-web-game?branchName=master)](https://dev.azure.com/David-PatrickAdam/Space%20Game%20-%20web%20-%20Pipeline/_build/latest?definitionId=2&branchName=master)
 
 # Contributing
 
